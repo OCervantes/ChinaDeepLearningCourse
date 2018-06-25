@@ -1,1 +1,2 @@
+!/.gitignore  # explicitly do not ignore .gitignore
 .ipynb_checkpoints
